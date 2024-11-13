@@ -5,9 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="assets/img/favicon.svg">
-    <meta name="author" content="Weslley Holanda Santos">
     <!-- shorthand ternario (?=if :=else) -->
-
     <title><?php echo isset($titulo)?$titulo: 'Sobre - Ki Oficina';?></title>
     <!-- Reset -->
     <link rel="stylesheet" href="vendors/css/reset.css">

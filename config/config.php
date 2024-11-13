@@ -6,9 +6,9 @@ define("BASE_URL","http://localhost/kioficina/"); //serve para criar uma constan
 
 //configuração de acesso banco 
 define("DB_HOST", "smpsistema.com.br"); //Host do sistema
-define("DB_NAME","u283879542_weslley");   //Nome da data base
-define("DB_USER","u283879542_weslley");       //Usuario data base
-define("DB_PASS","Weslley@tipi02");          //Senha data base 
+define("DB_NAME","u283879542_gabriel_j");   //Nome da data base
+define("DB_USER","u283879542_gabriel_j");       //Usuario data base
+define("DB_PASS","Gabriel_j@tipi02");          //Senha data base 
 
 // Confguração de acesso ao banco de dados(Data Base)
 define("HOST_EMAIL", "smtp.gmail.com"); //Host do sistema
